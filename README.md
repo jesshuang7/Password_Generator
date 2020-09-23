@@ -22,14 +22,13 @@ View the [Github-pages](https://jesshuang7.github.io/Password_Generator/)
 ## About the Project:
 The focus of this project was to create an application that generates a random password based on user-selected criteria. The password must be between 8-128 characters and must include at least one chractert type -- lower/upper case letters, numbers, or special characters. This app will run in the browser and feature dynamically updated HTML and CSS powered by the JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
 
-![Project Gif](assets/images/gif.gif)
-
+![Project Gif](Assets/Images/gif.gif)
 
 ### HTML:
 * [index.html](https://github.com/jesshuang7/Password_Generator/blob/master/index.html)
 
 ### Assets:
-* [style.css](https://github.com/jesshuang7/Password_Generator/blob/master/Assets/css/style.css)
+* [style.css](hhttps://github.com/jesshuang7/Password_Generator/blob/master/Assets/style.css)
 
 ### Built With:
 * This app is build upon JavaScript. 
